@@ -1,0 +1,14 @@
+<package>
+  <description brief="gripbot_arm_controller">
+
+     gripbot_arm_controller
+
+  </description>
+  <author>nick leone</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/gripbot_arm_controller</url>
+
+</package>
+
+
