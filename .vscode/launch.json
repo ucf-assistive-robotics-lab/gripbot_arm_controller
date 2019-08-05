@@ -11,9 +11,9 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "args": [
-                "10",
-                "10",
-                "10"
+                "-0.00269",
+                "-0.5439",
+                "0.63115"
             ],
         },
         {
